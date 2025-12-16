@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6279660793,
+      "width": 768,
+      "height": 1024,
+      "file_name": "LeafRot635.jpg",
+      "size": 209233,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4303527793,
+      "image_id": 6279660793,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 786432,
+      "bbox": [
+        0,
+        0,
+        768,
+        1024
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Leaf Rot",
+      "supercategory": "Leaf Rot"
+    }
+  ]
+}

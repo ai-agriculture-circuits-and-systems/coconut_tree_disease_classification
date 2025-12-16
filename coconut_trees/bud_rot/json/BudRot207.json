@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9450301230,
+      "width": 768,
+      "height": 1024,
+      "file_name": "BudRot207.jpg",
+      "size": 195973,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3180947230,
+      "image_id": 9450301230,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 786432,
+      "bbox": [
+        0,
+        0,
+        768,
+        1024
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Bud Rot",
+      "supercategory": "Bud Rot"
+    }
+  ]
+}
