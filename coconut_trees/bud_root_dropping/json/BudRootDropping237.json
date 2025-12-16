@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2766850129,
+      "width": 768,
+      "height": 576,
+      "file_name": "BudRootDropping237.jpg",
+      "size": 96196,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8360270129,
+      "image_id": 2766850129,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 442368,
+      "bbox": [
+        0,
+        0,
+        768,
+        576
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bud Root Dropping",
+      "supercategory": "Bud Root Dropping"
+    }
+  ]
+}

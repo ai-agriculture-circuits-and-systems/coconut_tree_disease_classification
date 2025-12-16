@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1807568772,
+      "width": 768,
+      "height": 576,
+      "file_name": "GrayLeafSpot1584.jpg",
+      "size": 113316,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9937323772,
+      "image_id": 1807568772,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 442368,
+      "bbox": [
+        0,
+        0,
+        768,
+        576
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Gray Leaf Spot",
+      "supercategory": "Gray Leaf Spot"
+    }
+  ]
+}
